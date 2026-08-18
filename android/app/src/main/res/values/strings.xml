@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Abhigi Game</string>
+    <string name="title_activity_main">Abhigi Game</string>
+    <string name="package_name">com.abhigi.game</string>
+    <string name="custom_url_scheme">com.abhigi.game</string>
+</resources>
